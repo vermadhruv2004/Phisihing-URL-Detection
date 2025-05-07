@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phishing URL Detection 
 ![image](https://user-images.githubusercontent.com/79131292/144742825-23367f0f-9e67-4c99-ba1f-b86a187675c9.png)
 ![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
@@ -81,3 +82,6 @@ Feature importance for Phishing URL Detection
 2. Creating this notebook helped me to learn a lot about the features affecting the models to detect whether URL is safe or not, also I came to know how to tuned model and how they affect the model performance.
 3. The final conclusion on the Phishing dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is phishing URL or not. 
 4. Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
+=======
+# Phisihing-URL-Detection
+>>>>>>> f6b37faef1293a9777527f677506d5433a67c27d
